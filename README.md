@@ -23,11 +23,11 @@
 for later publishing
 change data on:
 
-- https://stdict.korean.go.kr/openapi/openApiRegister.do
+- https://krdict.korean.go.kr/openApi/openApiInfo
 - naver
 - js.org
 
 
 #api key
 
-- 592341D201CD4415128EB4CAFB078A00 국립 국어원
+- 29C4FF9233C1DC10DE8FFDECB57B6DBA 한국어 기초사전
