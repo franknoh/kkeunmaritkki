@@ -10,3 +10,6 @@ var firebaseConfig = {
 };
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
+firebase.performance();
+firebase.auth();
+var realtimeDB = firebase.database().ref();
