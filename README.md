@@ -5,3 +5,15 @@
 
 * contributing[https://github.com/franknoh/kkeunmaritkki/blob/master/CONTRIBUTING.md]
 * licence[https://github.com/franknoh/kkeunmaritkki/blob/master/LICENSE]
+
+# commits
+
+-2020/9/13 sun
+ -create `kkeunmaritkki`
+-2020/9/14 mon
+ -import firebase & start login design
+ 
+# todo
+
+-make algorithum 
+-finish `firebase` install
