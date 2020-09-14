@@ -9,9 +9,9 @@
 # commits
 
 - 2020/9/13 sun
- - create `kkeunmaritkki`
+  - create `kkeunmaritkki`
 - 2020/9/14 mon
- - import firebase & start login design
+  - import firebase & start login design
  
 # todo
 
