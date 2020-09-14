@@ -17,3 +17,12 @@
 
 - make algorithum 
 - finish `firebase` install
+
+# reminder
+
+for later publishing
+change data on:
+
+- https://stdict.korean.go.kr/openapi/openApiRegister.do
+- naver
+- js.org
