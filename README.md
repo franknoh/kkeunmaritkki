@@ -8,12 +8,12 @@
 
 # commits
 
--2020/9/13 sun
- -create `kkeunmaritkki`
--2020/9/14 mon
- -import firebase & start login design
+- 2020/9/13 sun
+ - create `kkeunmaritkki`
+- 2020/9/14 mon
+ - import firebase & start login design
  
 # todo
 
--make algorithum 
--finish `firebase` install
+- make algorithum 
+- finish `firebase` install
