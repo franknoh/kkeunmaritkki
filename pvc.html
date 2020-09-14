@@ -28,6 +28,13 @@
   if(!getUser()){
     //plz login
   }
+  function getWord (word, used){
+	  var blacklist = ['즘', '틱', '늄', '슘', '퓸', '늬', '뺌', '섯', '숍'];
+	  if(typeof(word)!=="string"||typeof(used)!=="object") return 'invalid type';
+	  if(!word)return 'null';
+	  if(used.indexOf(word)!=-1) return 'used';
+	  if(blacklist.indexOf(word[0])==-1) return 'blocked';
+  }
   </script>
 </body>
 </html>
