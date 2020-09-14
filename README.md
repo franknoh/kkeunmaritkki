@@ -26,3 +26,8 @@ change data on:
 - https://stdict.korean.go.kr/openapi/openApiRegister.do
 - naver
 - js.org
+
+
+#api key
+
+- 592341D201CD4415128EB4CAFB078A00 국립 국어원
